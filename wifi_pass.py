@@ -1,7 +1,8 @@
 import subprocess
 import os
 //sourav code
-//wifi_password:
+//wifi_password
+//this code is made by sourav using python
 def get_wifi_password():
     try:
         # For Windows
